@@ -1,17 +1,17 @@
 <p align="center">
- <img src="https://ibb.co/jZkL9Zc" alt="Project Logo" width="726">
+ <img src="https://ic.wampi.ru/2023/05/19/stal.jpg" alt="Project Logo" width="726">
 </p>
 
 <p align="center">
- <img src="" src="https://img.shields.io/badge/Модель-Pixel%204A-green">
- <img src="" src="https://img.shields.io/badge/Версия-11-yellowgreen">
- <img src="" src="https://img.shields.io/badge/Лицензия-GPL-blue">
+ Язык-Java Версия-11 Лицензия-GPL
+ 
 </p>
 
 ## Описание 
-
+<p align="center">
 Мобильное приложение для Красноярской Сталепромышленной Компании. Написанный на языке Java с помощью среды разработки Android Studio.
-
+</p>
+ 
 ## Документация
 
 https://www.oracle.com/java/technologies/javase/terms-thirdpartyreadme60u30.html
