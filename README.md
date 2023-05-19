@@ -21,7 +21,8 @@ https://docs.oracle.com/en/java/javase/20/docs/specs/man/index.html
 ## Разработчики
 
 Артем Лагерев (https://github.com/4el1437) Разработчик 
-Алина Есипова () Разработчик
+
+Алина Есипова (https://github.com/aliens0601) Разработчик
 
 ## Лицензия
 GPL
